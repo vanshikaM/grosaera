@@ -1,17 +1,35 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { createStore , combineReducers} from 'redux';
+import itemsR from './store/reducer/itemsR';
+import userR from './store/reducer/userR';
+import { Provider } from 'react-redux';
+import {BrowserRouter} from 'react-router-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Theme from './utils/MuiProvider';
 
+const rootReducer = combineReducers({
+   ir:itemsR,
+   us:userR
+})
+const store = createStore(rootReducer);
+const app =  (
+  
+     <Provider store={store}>
+    <BrowserRouter>
+    <Theme>
+      <App /></Theme>
+  </BrowserRouter>
+  </Provider> 
+);
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {app}
   </React.StrictMode>,
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+
 reportWebVitals();
