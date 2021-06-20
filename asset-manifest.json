@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/grosaera/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/grosaera/static/js/main.7e860f37.chunk.js",
-    "main.js.map": "/grosaera/static/js/main.7e860f37.chunk.js.map",
-    "runtime-main.js": "/grosaera/static/js/runtime-main.1344be37.js",
-    "runtime-main.js.map": "/grosaera/static/js/runtime-main.1344be37.js.map",
-    "static/js/2.8dea498a.chunk.js": "/grosaera/static/js/2.8dea498a.chunk.js",
-    "static/js/2.8dea498a.chunk.js.map": "/grosaera/static/js/2.8dea498a.chunk.js.map",
-    "static/js/3.d6715922.chunk.js": "/grosaera/static/js/3.d6715922.chunk.js",
-    "static/js/3.d6715922.chunk.js.map": "/grosaera/static/js/3.d6715922.chunk.js.map",
-    "index.html": "/grosaera/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/grosaera/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.8dea498a.chunk.js.LICENSE.txt": "/grosaera/static/js/2.8dea498a.chunk.js.LICENSE.txt",
-    "static/media/ahisrvaad.a9519419.png": "/grosaera/static/media/ahisrvaad.a9519419.png",
-    "static/media/banner.bfdd1f81.png": "/grosaera/static/media/banner.bfdd1f81.png"
+    "main.css": "/grocery/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/grocery/static/js/main.c5566c3a.chunk.js",
+    "main.js.map": "/grocery/static/js/main.c5566c3a.chunk.js.map",
+    "runtime-main.js": "/grocery/static/js/runtime-main.4e11058a.js",
+    "runtime-main.js.map": "/grocery/static/js/runtime-main.4e11058a.js.map",
+    "static/js/2.1cc406dd.chunk.js": "/grocery/static/js/2.1cc406dd.chunk.js",
+    "static/js/2.1cc406dd.chunk.js.map": "/grocery/static/js/2.1cc406dd.chunk.js.map",
+    "static/js/3.d6715922.chunk.js": "/grocery/static/js/3.d6715922.chunk.js",
+    "static/js/3.d6715922.chunk.js.map": "/grocery/static/js/3.d6715922.chunk.js.map",
+    "index.html": "/grocery/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/grocery/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1cc406dd.chunk.js.LICENSE.txt": "/grocery/static/js/2.1cc406dd.chunk.js.LICENSE.txt",
+    "static/media/ahisrvaad.a9519419.png": "/grocery/static/media/ahisrvaad.a9519419.png",
+    "static/media/banner.bfdd1f81.png": "/grocery/static/media/banner.bfdd1f81.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1344be37.js",
-    "static/js/2.8dea498a.chunk.js",
+    "static/js/runtime-main.4e11058a.js",
+    "static/js/2.1cc406dd.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.7e860f37.chunk.js"
+    "static/js/main.c5566c3a.chunk.js"
   ]
 }
